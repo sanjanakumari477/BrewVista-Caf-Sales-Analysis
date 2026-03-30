@@ -61,7 +61,7 @@ BrewVista-Cafe-Sales-Analysis/
 
 ## 📷 Dashboard Preview
 
-*Add your dashboard screenshot here*
+[*Add your dashboard screenshot here*](https://github.com/sanjanakumari477/BrewVista-Caf-Sales-Analysis/blob/main/task%202%20s.jpeg)
 
 ---
 
